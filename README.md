@@ -20,3 +20,9 @@ var generator = this.app.root.findByName('Dungeon_Room_Gen').script.dungeonRoomG
 generator.createNew();
 generator.deleteOldMap();
 ```
+Example project can be found [here](https://playcanvas.com/project/430269/overview/level-and-map-generators)
+
+## Preview 
+
+<img src="http://i.imgur.com/weBg3X2.gif" width="488" height="257" />
+
